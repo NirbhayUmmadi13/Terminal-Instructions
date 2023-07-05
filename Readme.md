@@ -7,4 +7,5 @@
  5. commit
  6. remote
  7. push
-    Larry Coded Instructions to Accomplish Complete Reasoning over Patrick
+    Larry
+    - Coded Instructions to Accomplish Complete Reasoning over Patrick
